@@ -1,4 +1,4 @@
-## AI used in this projects 
+##  Prompts  used in this projects 
 
 
 # Prompt 1:
